@@ -1,23 +1,3 @@
-# IM-Sanbercode-Laravel-Web-Dev
-
-## BookZone - Laravel Book Review Application
-
-Aplikasi review buku yang dibangun menggunakan Laravel 12 dengan fitur-fitur lengkap untuk mengelola buku, genre, dan review.
-
-### Fitur Utama
-- 🔐 Autentikasi (Login & Register)
-- 📚 Manajemen Buku (CRUD)
-- 🎭 Manajemen Genre (CRUD)
-- 👤 Manajemen Profile
-- 💬 Sistem Komentar
-- 👑 Role Admin & User
-
-### Kredensial Admin
-- **Email:** admin@bookzone.com
-- **Password:** admin123
-
----
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
